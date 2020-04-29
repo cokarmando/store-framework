@@ -8,7 +8,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "*Hello, World!*",
+      "text": "**Hello, World!**",
       "textPosition": "RIGHT"
     }
   },
@@ -35,7 +35,7 @@
       "callToActionMode": "link",
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center"
+      "textAlignment": "left"
     }
   }
 }
