@@ -6,7 +6,8 @@
   },
   "flex-layout.row#main": { 
     "props": { 
-      "marginTop": 6
+      "marginTop": 6,
+      "verticalAlign": "middle"
     },
     "children": [
       "flex-layout.col#left",
